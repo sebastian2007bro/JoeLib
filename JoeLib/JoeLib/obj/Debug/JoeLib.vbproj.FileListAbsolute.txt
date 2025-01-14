@@ -1,0 +1,10 @@
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\bin\Debug\JoeLib.dll
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\bin\Debug\JoeLib.pdb
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\bin\Debug\JoeLib.xml
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.Resources.resources
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.dll
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.xml
+C:\Users\Sebastian\source\repos\JoeLib\JoeLib\obj\Debug\JoeLib.pdb
